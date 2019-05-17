@@ -1,0 +1,11 @@
+{
+  "name": "webpack-bare-bone",
+  "version": "1.0.0",
+  "description": "a basic bare bone for webpack configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simranjeet Singh",
+  "license": "MIT"
+}
